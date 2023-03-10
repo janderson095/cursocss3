@@ -1,0 +1,31 @@
+* {margin:0; padding: 0;}
+#Exemplos {
+    background-color: green;
+    color: #fff;
+    width: 500px;
+    margin: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+/* fazendo comando padding individual para cada distanciamento */
+}
+
+#Exemplos2 {
+    background-color: rgb(0, 81, 255);
+    color: #a97c7c;
+    width: 500px;
+    margin: 20px;
+    padding: 20px 10px 10px 5px
+
+    /* padding: feito assim segue a mesma coisa porem sem dar os nomes seguindo a sequencia top right bottom left */
+}
+
+#Exemplos3 {
+    background-color: green;
+    color: #fff;
+
+    height: 10px;
+    margin: 10px; 
+    padding: 5px 
+}
