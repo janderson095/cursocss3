@@ -1,0 +1,18 @@
+* {margin:0; padding: 0;}
+
+.texto-principal {
+
+    color: blue;
+    font-size: x-large;
+}
+/* (.texto-principal) o ponto significa atributo classe no html */
+
+
+/* para abrir o id se utiliza a # e nome do id */
+#texto1 {
+    background-color: deeppink;
+}
+
+#texto2 {
+    background-color: darkseagreen;
+}
