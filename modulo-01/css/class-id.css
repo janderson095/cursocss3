@@ -5,9 +5,14 @@
     color: blue;
     font-size: x-large;
 }
+/* (.texto-principal) o ponto significa atributo classe no html */
 
-.texto-secundario {
 
-    color: brown;
+/* para abrir o id se utiliza a # e nome do id */
+#texto1 {
+    background-color: deeppink;
 }
 
+#texto2 {
+    background-color: darkseagreen;
+}
