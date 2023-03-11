@@ -1,0 +1,24 @@
+* {margin:0; padding: 0;}
+
+p {
+    color: red;
+    text-align: justify;
+}
+
+h1 {
+    text-align: left; 
+    color: green;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: right;
+    color: blue;
+    text-decoration:overline;
+}
+
+h3 {
+    text-align: center;
+    color: aqua;
+    text-decoration: line-through;
+}
