@@ -1,0 +1,13 @@
+* {margin:0; padding: 0; box-sizing: border-box; }
+
+#Conteudo {
+    background-color: red;
+    width: 300px;
+    padding: 20px;
+}
+
+#Conteudo2 {
+    background-color: green;
+    width: 400px;
+    padding: 20px;
+}
